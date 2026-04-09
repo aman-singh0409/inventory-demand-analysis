@@ -53,13 +53,11 @@ Also, the **total loss (8M) is much higher than total profit (301K)**, which sho
 
 # Snapshot of Dashboard (Power BI Service)
 
-*[](https://github.com/aman-singh0409/inventory-demand-analysis/issues/1#issue-4230634008)*
+<img width="1778" height="743" alt="Image" src="https://github.com/user-attachments/assets/d23ee14d-e383-4442-ad7b-d5660c43b7e3" />
 
 ---
 
-# Report Snapshot (Power BI Desktop)
-
-*(Add your screenshots here)*
+<img width="1785" height="740" alt="Image" src="https://github.com/user-attachments/assets/244eb840-ef8f-41d8-b71e-dc23d3111136" />
 
 ---
 
