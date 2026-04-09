@@ -130,7 +130,7 @@ By using Power BI dashboards, businesses can improve supply chain performance, r
 
 *  Power BI Dashboard (.pbix)
 *  MySQL Dataset
-*  SQL Queries
+*  MySQL Queries
 
 ---
 
